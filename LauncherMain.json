@@ -1,0 +1,18 @@
+{
+  "ServerOn": "True",
+  "MessageServerFalse": "",
+  "Version": "1.3",
+  "gamesizeOriginal": "-",
+  "gamesizeOriginalFix": "-",
+  "gamesizeENBLow": "-",
+  "gamesizeENBSetting": "-",
+  "gamesizeENBHigh": "-",
+  "ASIC": "999",
+  "CSC": "999",
+  "LUAC": "999",
+  "CBURLLIST": "modloader,false|modloader.asi,false|moonloader,false|moonloader.asi,false",
+  "FFC": "-1",
+  "UpdateWithLink": "http://191.96.92.98/crlauncher/CareerLauncherUpdate.tmp",
+  "LUpdateWithLink": "http://191.96.92.98/crlauncher/CareerUpdateFileReplace.tmp",
+  "PIC": "https://img2.imgbiz.com/imgbiz/CB.png"
+}

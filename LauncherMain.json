@@ -1,25 +1,12 @@
 {
   "ServerOn": "True",
   "MessageServerFalse": "",
-  "Version": "1.0",
-  "gamesizeOriginal": "-",
-  "gamesizeOriginalFix": "-",
-  "gamesizeENBLow": "-",
-  "gamesizeENBSetting": "-",
-  "gamesizeENBHigh": "-",
-  "ASIC": "999",
-  "CSC": "999",
-  "LUAC": "999",
-  "CBURLLIST": "test,false",
-  "FFC": "-1",
-  "UpdateWithLink": "http://191.96.92.236/urcitylauncher/LauncherUpdate.tmp",
+  "Version": "2.0",
 
-  "UpdateWithLink_EXE": "http://191.96.92.236/urcitylauncher/LauncherUpdate_EXE.tmp",
-  "UpdateWithLink_DLL": "http://191.96.92.236/urcitylauncher/LauncherUpdate_DLL.tmp",
+  "UpdateWithLink_EXE": "http://168.222.20.228/urcitylauncher/LauncherUpdate_EXE.tmp",
+  "UpdateWithLink_DLL": "http://168.222.20.228/urcitylauncher/LauncherUpdate_DLL.tmp",
   
-  "LUpdateWithLink": "http://191.96.92.236/urcitylauncher/UpdateFileReplace.tmp",
-  
-  "LUpdateWithLink_EXE": "http://191.96.92.236/urcitylauncher/UpdateFileReplace_EXE.tmp",
-  "LUpdateWithLink_DLL": "http://191.96.92.236/urcitylauncher/UpdateFileReplace_DLL.tmp",
+  "LUpdateWithLink_EXE": "http://168.222.20.228/urcitylauncher/UpdateFileReplace_EXE.tmp",
+  "LUpdateWithLink_DLL": "http://168.222.20.228/urcitylauncher/UpdateFileReplace_DLL.tmp",
   "PIC": "https://img2.imgbiz.com/imgbiz/CB.png"
 }

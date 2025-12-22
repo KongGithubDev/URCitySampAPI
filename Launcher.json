@@ -7,7 +7,7 @@
 	"facebookUrl": "https://www.facebook.com/profile.php?id=61558318001230&mibextid=LQQJ4d",
 	"games": [
 		{
-			"name": "Legend Of Roleplay",
+			"name": "URCity",
       "themeColor": "#ffdd00",
 			"startCmd": "samp.exe 168.222.20.193:7777",
 			"forceReinstall": false,

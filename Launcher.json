@@ -1,22 +1,21 @@
 {
 	"launcherVer": 1,
-  "themeColor": "#ffffff",
+	"themeColor": "#ffffff",
 	"launcherUrl": "http://168.222.20.228/URCityLauncher_API/launcher.exe",
 	"launcherLogo": "https://img2.pic.in.th/pic/KongProjectLogo.png",
 	"discordUrl": "https://discord.gg/jrAfUwpZzQ",
 	"facebookUrl": "https://www.facebook.com/share/1DGKdBDwsH/?mibextid=wwXIfr",
+	"patchDataUrl": "http://168.222.20.228/URCityLauncher_API/data.json",
 	"games": [
 		{
 			"name": "URCity",
-      		"themeColor": "#ffdd00",
+			"themeColor": "#ffdd00",
 			"startCmd": "samp.exe 168.222.20.193:7777",
 			"forceReinstall": false,
-			"forceReinstallTimestamp": 1766246368,
+			"forceReinstallTimestamp": 0,
 			"clientVer": 1,
 			"clientUrl": "https://pub-926310bf9c804b08b14509fc3f41b15a.r2.dev/game_base.zip",
-			"patchUrls": [
-				"http://168.222.20.228/URCityLauncher_API/patch-base-22-12-68.zip"
-			],
+			"patchUrls": [],
 			"cheatblockerData": "http://168.222.20.228/URCityLauncher_API/cb.json",
 			"enbBaseUrl": "http://168.222.20.228/URCityLauncher_API/enb/",
 			"enbFiles": [

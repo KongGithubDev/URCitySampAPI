@@ -4,18 +4,18 @@
 	"launcherUrl": "http://168.222.20.228/URCityLauncher-API/launcher.exe",
 	"launcherLogo": "https://img2.pic.in.th/pic/KongProjectLogo.png",
 	"discordUrl": "https://discord.gg/jrAfUwpZzQ",
-	"facebookUrl": "https://www.facebook.com/profile.php?id=61558318001230&mibextid=LQQJ4d",
+	"facebookUrl": "https://www.facebook.com/share/1DGKdBDwsH/?mibextid=wwXIfr",
 	"games": [
 		{
 			"name": "URCity",
-      "themeColor": "#ffdd00",
+      		"themeColor": "#ffdd00",
 			"startCmd": "samp.exe 168.222.20.193:7777",
 			"forceReinstall": false,
 			"forceReinstallTimestamp": 1766246368,
 			"clientVer": 1,
-			"clientUrl": "http://samp-legend.net/legendlauncher-api/game_base.zip",
+			"clientUrl": "https://pub-926310bf9c804b08b14509fc3f41b15a.r2.dev/game_base.zip",
 			"patchUrls": [
-				"http://samp-legend.net/legendlauncher-api/patch-base-21-12-68.zip"
+				"http://168.222.20.228/URCityLauncher-API/patch-base-22-12-68.zip"
 			],
 			"cheatblockerData": "http://168.222.20.228/URCityLauncher-API/cb.json",
 			"enbBaseUrl": "http://168.222.20.228/URCityLauncher-API/enb/",
@@ -28,13 +28,13 @@
 			"maintenance": false,
 			"serverIp": "168.222.20.193",
 			"serverPort": 7777,
-			"logo": "https://img5.pic.in.th/file/secure-sv1/Logo_Legend_New1.png",
+			"logo": "https://img2.pic.in.th/pic/logo8c2b042b2aaa6576.png",
 			"banners": [],
 			"bannersMoreUrl": "http://168.222.20.228/URCityLauncher-API/banners.json",
 			"videoUrls": [
-				"https://www.youtube.com/watch?v=dgc_SeO3TZw",
-				"https://www.youtube.com/watch?v=AA3FHHa0b5M",
-				"https://www.youtube.com/watch?v=99DD_GovMs0"
+				"https://www.youtube.com/watch?v=qtz8t3xoLIU",
+				"https://www.youtube.com/watch?v=uxuLmPObYaw",
+				"https://www.youtube.com/watch?v=tsqs_vAwwcI"
 			]
 		}
 	]

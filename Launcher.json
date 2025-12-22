@@ -1,7 +1,7 @@
 {
 	"launcherVer": 1,
   "themeColor": "#ffffff",
-	"launcherUrl": "http://168.222.20.228/URCityLauncher-API/launcher.exe",
+	"launcherUrl": "http://168.222.20.228/URCityLauncher_API/launcher.exe",
 	"launcherLogo": "https://img2.pic.in.th/pic/KongProjectLogo.png",
 	"discordUrl": "https://discord.gg/jrAfUwpZzQ",
 	"facebookUrl": "https://www.facebook.com/share/1DGKdBDwsH/?mibextid=wwXIfr",
@@ -15,10 +15,10 @@
 			"clientVer": 1,
 			"clientUrl": "https://pub-926310bf9c804b08b14509fc3f41b15a.r2.dev/game_base.zip",
 			"patchUrls": [
-				"http://168.222.20.228/URCityLauncher-API/patch-base-22-12-68.zip"
+				"http://168.222.20.228/URCityLauncher_API/patch-base-22-12-68.zip"
 			],
-			"cheatblockerData": "http://168.222.20.228/URCityLauncher-API/cb.json",
-			"enbBaseUrl": "http://168.222.20.228/URCityLauncher-API/enb/",
+			"cheatblockerData": "http://168.222.20.228/URCityLauncher_API/cb.json",
+			"enbBaseUrl": "http://168.222.20.228/URCityLauncher_API/enb/",
 			"enbFiles": [
 				{ "fileName": "enbeffect.fx", "fileMD5": "860BCF2574BD01199CF0DFE2898A5F24" },
 				{ "fileName": "enblocal.ini", "fileMD5": "5FBE36BA9B1AC41541E136E2476D9939" },
@@ -30,7 +30,7 @@
 			"serverPort": 7777,
 			"logo": "https://img2.pic.in.th/pic/logo8c2b042b2aaa6576.png",
 			"banners": [],
-			"bannersMoreUrl": "http://168.222.20.228/URCityLauncher-API/banners.json",
+			"bannersMoreUrl": "http://168.222.20.228/URCityLauncher_API/banners.json",
 			"videoUrls": [
 				"https://www.youtube.com/watch?v=qtz8t3xoLIU",
 				"https://www.youtube.com/watch?v=uxuLmPObYaw",

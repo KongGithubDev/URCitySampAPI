@@ -5,12 +5,15 @@
 	"launcherLogo": "https://img2.pic.in.th/pic/KongProjectLogo.png",
 	"discordUrl": "https://discord.gg/jrAfUwpZzQ",
 	"facebookUrl": "https://www.facebook.com/share/1DGKdBDwsH/?mibextid=wwXIfr",
-	"patchDataUrl": "http://168.222.20.228/URCityLauncher_API/data.json",
+	"themeConfigUrl": "http://168.222.20.228/URCityLauncher_API/theme.json",
+
 	"games": [
 		{
 			"name": "URCity",
 			"themeColor": "#ffdd00",
 			"startCmd": "samp.exe 168.222.20.193:7777",
+			"patchDataUrl": "http://168.222.20.228/URCityLauncher_API/data.json",
+
 			"forceReinstall": false,
 			"forceReinstallTimestamp": 0,
 			"clientVer": 1,

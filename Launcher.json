@@ -1,43 +1,45 @@
 {
-	"launcherVer": 2,
-	"themeColor": "#ffffff",
-	"launcherUrl": "http://168.222.20.228/URCityLauncher_API/launcher.exe",
-	"launcherLogo": "https://img2.pic.in.th/pic/KongProjectLogo.png",
-	"discordUrl": "https://discord.gg/jrAfUwpZzQ",
-	"facebookUrl": "https://www.facebook.com/share/1DGKdBDwsH/?mibextid=wwXIfr",
-	"themeConfigUrl": "http://168.222.20.228/URCityLauncher_API/theme.json",
+  "launcherVer": 3,
+  "launcherName": "URCity Launcher",
+  "registryPath": "HKCU\\Software\\SAMP",
+  "themeColor": "#ffffff",
+  "launcherUrl": "http://168.222.20.228/URCityLauncher_API/launcher.exe",
+  "launcherLogo": "https://img2.pic.in.th/pic/KongProjectLogo.png",
+  "discordUrl": "https://discord.gg/jrAfUwpZzQ",
+  "facebookUrl": "https://www.facebook.com/share/1DGKdBDwsH/?mibextid=wwXIfr",
+  "themeConfigUrl": "https://raw.githubusercontent.com/KongGithubDev/KPLauncher_API/refs/heads/main/theme.json",
 
-	"games": [
-		{
-			"name": "URCity",
-			"themeColor": "#ffdd00",
-			"startCmd": "samp.exe 168.222.20.193:7777",
-			"patchDataUrl": "http://168.222.20.228/URCityLauncher_API/data.json",
-
-			"forceReinstall": false,
-			"forceReinstallTimestamp": 0,
-			"clientVer": 1,
-			"clientUrl": "https://pub-926310bf9c804b08b14509fc3f41b15a.r2.dev/game_base.zip",
-			"patchUrls": [],
-			"cheatblockerData": "http://168.222.20.228/URCityLauncher_API/cb.json",
-			"enbBaseUrl": "http://168.222.20.228/URCityLauncher_API/enb/",
-			"enbFiles": [
-				{ "fileName": "enbeffect.fx", "fileMD5": "860BCF2574BD01199CF0DFE2898A5F24" },
-				{ "fileName": "enblocal.ini", "fileMD5": "5FBE36BA9B1AC41541E136E2476D9939" },
-				{ "fileName": "enbseries.asi", "fileMD5": "06950EB8E1A2F04423F1A8E6AE175CE6" },
-				{ "fileName": "enbseries.ini", "fileMD5": "B7E4571AAF381EEC4A4ED9B17098456E" }
-			],
-			"maintenance": false,
-			"serverIp": "168.222.20.193",
-			"serverPort": 7777,
-			"logo": "https://img2.pic.in.th/pic/logo8c2b042b2aaa6576.png",
-			"banners": [],
-			"bannersMoreUrl": "http://168.222.20.228/URCityLauncher_API/banners.json",
-			"videoUrls": [
-				"https://www.youtube.com/watch?v=qtz8t3xoLIU",
-				"https://www.youtube.com/watch?v=uxuLmPObYaw",
-				"https://www.youtube.com/watch?v=tsqs_vAwwcI"
-			]
-		}
-	]
+  "games": [
+	    {
+	      "name": "URCity",
+	      "themeColor": "#ffdd00",
+	      "startCmd": "samp.exe 168.222.20.193:7777",
+	      "patchDataUrl": "http://168.222.20.228/URCityLauncher_API/data.json",
+	
+	      "forceReinstall": false,
+	      "forceReinstallTimestamp": 0,
+	      "clientVer": 1,
+	      "clientUrl": "https://pub-926310bf9c804b08b14509fc3f41b15a.r2.dev/game_base.zip",
+	      "patchUrls": [],
+	      "cheatblockerData": "http://168.222.20.228/URCityLauncher_API/cb.json",
+	      "enbBaseUrl": "http://168.222.20.228/URCityLauncher_API/enb/",
+	      "enbFiles": [
+	        { "fileName": "enbeffect.fx", "fileMD5": "860BCF2574BD01199CF0DFE2898A5F24" },
+	        { "fileName": "enblocal.ini", "fileMD5": "5FBE36BA9B1AC41541E136E2476D9939" },
+	        { "fileName": "enbseries.asi", "fileMD5": "06950EB8E1A2F04423F1A8E6AE175CE6" },
+	        { "fileName": "enbseries.ini", "fileMD5": "B7E4571AAF381EEC4A4ED9B17098456E" }
+	      ],
+	      "maintenance": false,
+	      "serverIp": "168.222.20.193",
+	      "serverPort": 7777,
+	      "logo": "https://img2.pic.in.th/pic/logo8c2b042b2aaa6576.png",
+	      "banners": [],
+	      "bannersMoreUrl": "http://168.222.20.228/URCityLauncher_API/banners.json",
+	      "videoUrls": [
+	        "https://www.youtube.com/watch?v=qtz8t3xoLIU",
+	        "https://www.youtube.com/watch?v=uxuLmPObYaw",
+	        "https://www.youtube.com/watch?v=tsqs_vAwwcI"
+	      ]
+	    }
+  	]
 }

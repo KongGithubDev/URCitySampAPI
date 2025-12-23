@@ -12,6 +12,29 @@
     { "language": "th", "displayName": "ไทย", "dataUrl": "https://raw.githubusercontent.com/KongGithubDev/KPLauncher_API/refs/heads/main/language/th.json" },
     { "language": "en", "displayName": "English", "dataUrl": "https://raw.githubusercontent.com/KongGithubDev/KPLauncher_API/refs/heads/main/language/en.json" }
   ],
+  "discord": {
+    "clientId": "1438477239355314259",
+	  
+    "details": "Main Menu",
+    "state": "URCity Launcher",
+    "largeImageKey": "main",
+    "largeImageText": "URCity Server",
+    
+    "detailsPlaying": "Playing on {gameName}",
+    "statePlaying": "Character: {playerName}",
+    "largeImageTextPlaying": "In Game",
+
+    "detailsDownloading": "Updating {gameName}",
+    "stateDownloading": "Downloading files...",
+    "largeImageTextDownloading": "Patching...",
+
+    "detailsMenus": "In the menus",
+    "stateMenus": "Launcher Main Screen",
+    
+    "buttons": [
+      { "label": "Discord", "url": "https://discord.gg/jrAfUwpZzQ" }
+    ]
+  },
   "games": [
 	    {
 	      "name": "URCity",

@@ -1,6 +1,6 @@
 {
-  "ServerOn": "True",
-  "MessageServerFalse": "",
+  "ServerOn": "False",
+  "MessageServerFalse": "End of support for this version.",
   "Version": "2.0",
 
   "UpdateWithLink_EXE": "http://168.222.20.228/urcitylauncher/LauncherUpdate_EXE.tmp",
